@@ -1,9 +1,5 @@
 This repository contains the main code used for generating and evaluating 11 dataset augmentation techniques for music emotion recognition. The code was written in Python using Google Colab. Additionally, this repository includes code from preliminary phases and testing that were not included in the final version of the paper.
 
-If you have any questions regarding the code, feel free to contact me at: michele.rossi-2@unitn.it.
-
-For the code related to the listening test app developed as part of this work, please refer to the following repository: [listening_test_webAPP](https://github.com/michelerossi1/listening_test_webAPP).
-
 
 ### Data Augmentation Techniques and Their Corresponding Parameter Settings
 
@@ -20,3 +16,8 @@ For the code related to the listening test app developed as part of this work, p
 | Saturation      | pedalboard      | Saturation level: 0 to 20 |
 | Time Shift      | Python          | Time shift: 0 to 1.5 seconds |
 | Time Stretch    | librosa         | Stretch ratio: 0.97 to 1.03 |
+
+
+If you have any questions regarding the code, feel free to contact me at: michele.rossi-2@unitn.it.
+
+For the code related to the listening test app developed as part of this work, please refer to the following repository: [listening_test_webAPP](https://github.com/michelerossi1/listening_test_webAPP).
